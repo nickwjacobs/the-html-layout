@@ -1,0 +1,30 @@
+.main-wrapper{
+  height: 100vh;
+}
+.top-block{
+  width: 100vw;
+  height: 20vh;
+  background: #3b3d42;
+}
+.left-bar{
+  display: inline-block;
+  width: 15vw;
+  height: 100vh;
+  background: #cdd2d8;
+}
+.right-bar{
+  display: inline-block;
+  width: 15vw;
+  height: 100vh;
+  background: #cdd2d8;
+  float: right;
+}
+.bottom-block{
+  width: 68.75vw;
+  height: 10vh;
+  background: #3b3d42;
+  margin-left: 15vw;
+  position: absolute;
+  bottom: 0;
+
+}
